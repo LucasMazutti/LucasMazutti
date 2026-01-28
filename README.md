@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Lucas Mazutti!
 💸 Graduado em gestão comercial - a partir de dez/2025 (UNICESUMAR, Curitiba/PR)
-🎓 Estudante de Ciência da Computação (Universidade Positivo, Curitiba/PR) 
+🎓 Estudante de análise e desenvolvimento de sistemas (PUCPR, Curitiba/PR) 
 
 Apaixonado por análise Dados, vendas e  BI  - e os esportes são uma outra paixão⚽🏈🏀.
 Tenho conhecimento em SQL e POWER BI, desenvolvo bem em PYTHON e estatísca é quase minha religião🤣.
@@ -11,14 +11,15 @@ Meu eslogan é: performance e dados é como batman e robin😆.
 
 ## 🔧 Tecnologias & Ferramentas (Nível 1 a 5)
 - EXCEL (5)
-- SQL e POWER BI(DAX) (4)
+- POWER BI(DAX) (5)
+- SQL (4)
 - PYTHON (3)
 Futuros aprendizados: R, M(Power BI), ML, Azure. Entre outros.
 
 ---
 
 ## 📚 Atualmente aprendendo
-- Power BI avançado
+- SQL Avançado
 - Python para data science (Pandas, Numpy, seaborn, matplotlib)
 
 ---
