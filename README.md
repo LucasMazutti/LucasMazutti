@@ -12,7 +12,7 @@ Interessado em Data Engineering, Machine Learning e Inteligência Artificial.
 - 📈 EXCEL – Nível Intermediário 
 Organização e análise de dados utilizando fórmulas como SE, SES, PROCV/PROCX,CORRESP, CORRESPX, ÍNDICE, SOMASE, SOMASES, CONT.SE, CONT.SES, TEXTO, ESQUERDA, DIREITA, LOCALIZAR e SUBSTITUIR. 
 Criação de Tabelas, Tabelas Dinâmicas, gráficos, formatação condicional, validação de dados e automação básica de relatórios.
-- 📊 POWER BI – Nível Avançado
+- 📊 POWER BI – Nível Intermediário/Avançado
 Desenvolvimento de modelos analíticos utilizando Power Query (M) para ETL, modelagem dimensional (fato e dimensão), criação de medidas avançadas em DAX 
 (CALCULATE, FILTER, ALL, ALLEXCEPT, VALUES, DISTINCTCOUNT, USERELATIONSHIP, CROSSFILTER, SUMX, AVERAGEX, RANKX, VAR). Construção de dashboards interativos, KPIs, segmentações, drill-down/drill-through, 
 row-level security (RLS), otimização de performance e publicação no Power BI Service.
