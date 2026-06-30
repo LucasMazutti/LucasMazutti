@@ -1,5 +1,6 @@
 # 👋 Olá, eu sou o Lucas Mazutti!
-💸 Graduado em gestão comercial - a partir de dez/2025 (UNICESUMAR, Curitiba/PR)
+💸 Graduado em gestão comercial - (UNICESUMAR, Curitiba/PR)
+
 🎓 Estudante de análise e desenvolvimento de sistemas (PUCPR, Curitiba/PR) 
 
 ## 📫 Como me encontrar
