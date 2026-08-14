@@ -3,7 +3,6 @@
 <div align="center">
 
 <img src="<img width="1402" height="1122" alt="ChatGPT Image 14 de ago  de 2026, 10_48_39" src="https://github.com/user-attachments/assets/7216f8fc-abfa-4a70-baf7-554c0b24847f" />
-" width="400">
 
 ### *“A wizard is never late, nor is he early. He arrives precisely when he means to.”*
 
