@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="SEU_GIF_DO_GANDALF" width="400">
+<img src="[SEU_GIF_DO_GANDALF](https://chatgpt.com/s/m_6a7f1c6ca5fc8191ac6452895d572df3)" width="400">
 
 ### *“A wizard is never late, nor is he early. He arrives precisely when he means to.”*
 
