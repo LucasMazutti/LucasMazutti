@@ -1,187 +1,95 @@
-# 🧙‍♂️ Hey, I'm Lucas!
+# 🧙‍♂️ O básico para me conhecer!
+
+Fora do mundo corporativo, sou um nerd que gosta de **praticar esportes**, explorar assuntos que despertam minha curiosidade e, é claro, tenho uma grande afeição por **Senhor dos Anéis, história e filosofia**. 🏹📚⚔️
+
+Acredito que aprender coisas novas é uma das melhores formas de aproveitar o tempo que temos.
 
 <div align="center">
 
-<img src="
-" />
-
-### *“A wizard is never late, nor is he early. He arrives precisely when he means to.”*
-
-**Data • Mathematics • Problem Solving • Technology**
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](SEU_LINKEDIN)
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge\&logo=youtube\&logoColor=white)](SEU_YOUTUBE)
+<img src="./gifs/gandalf_fumando.gif" width="400">
 
 </div>
 
 ---
 
-## 🧙‍♂️ About Me
+# 💼 Minha vida profissional
 
-I'm passionate about **data and mathematics**, and I use both to solve problems, understand complex scenarios, and turn information into meaningful solutions.
+Comecei a estudar **Análise de Dados** por curiosidade e rapidamente me interessei profundamente pela área.
 
-I'm always learning, building, experimenting, and looking for better ways to do things.
+Uni meu gosto por **matemática** com tecnologia e comecei a estudar **Business Intelligence, SQL e Python**. 📊🧮💻
 
-> **“All we have to decide is what to do with the time that is given us.”**
+Poucos dias depois, surgiu minha primeira oportunidade profissional na área — **sem indicação 😅** — e, em poucos meses, fui crescendo dentro da empresa até chegar ao **segundo nível hierárquico**.
 
-My goal is simple: **keep learning, keep building, and make things happen.**
+Desde então, venho trabalhando diariamente com dados, buscando transformar números em informações e informações em **decisões e soluções**.
 
----
-
-## ⚔️ My Journey
-
-```text
-                         THE JOURNEY
-                              │
-                              ▼
-                    ┌──────────────────┐
-                    │      DATA        │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │   MATHEMATICS    │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │ PROBLEM SOLVING  │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │    SOLUTIONS     │
-                    └────────┬─────────┘
-                             │
-                             ▼
-                    ┌──────────────────┐
-                    │   CONTINUOUS     │
-                    │     LEARNING     │
-                    └──────────────────┘
-```
+> *“All we have to decide is what to do with the time that is given us.”* 🧙‍♂️
 
 ---
 
-## 💍 The Tools of Power
+# 🎓 Vida de estudante
 
-### 📊 Data & Business Intelligence
+### Sou graduado em:
+
+🎓 **Gestão Comercial — UniCesumar**
+
+### Estou cursando:
+
+📚 **Análise e Desenvolvimento de Sistemas — PUCPR**
+
+A jornada continua. Afinal...
+
+> *“The road goes ever on and on...”* 🗺️
+
+---
+
+# 🛠️ Ferramentas que utilizo no meu dia a dia
+
+### 📊 Business Intelligence
+
+* **Power BI**
+
+  * DAX
+  * Power Query
+  * M
+
+### 🗄️ Banco de Dados
+
+* **SQL**
+* **SAP HANA**
+
+### 🐍 Programação & Dados
+
+* **Python**
+
+  * Pandas
+  * NumPy
+
+<div align="center">
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
-![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-742774?style=for-the-badge\&logo=microsoftfabric\&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-4479A1?style=for-the-badge)
-
-### 🗄️ Databases & SQL
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![SAP HANA](https://img.shields.io/badge/SAP%20HANA-008FD3?style=for-the-badge\&logo=sap\&logoColor=white)
-
-### 💻 Development & Version Control
-
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=databricks\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
----
-
-## 🏰 The Fellowship of Data
-
-```text
-                 🧙‍♂️ Gandalf
-                     │
-                     ▼
-              ┌──────────────┐
-              │     DATA     │
-              └──────┬───────┘
-                     │
-          ┌──────────┼──────────┐
-          ▼          ▼          ▼
-       📊 BI       🧮 Math    💻 Code
-          │          │          │
-          └──────────┼──────────┘
-                     ▼
-              ⚔️ PROBLEM
-               SOLVING
-                     │
-                     ▼
-               💡 SOLUTIONS
-```
-
----
-
-## 📚 Currently Learning
-
-* 🧮 Improving my knowledge of **Mathematics & Statistics**
-* 📊 Exploring new approaches to **Data Analytics & Business Intelligence**
-* ☁️ Learning more about **Microsoft Fabric & Cloud Data**
-* 💻 Improving my **Python & programming skills**
-* 🏗️ Building better **data pipelines and analytical solutions**
-* ⚔️ Always looking for the next challenge
-
----
-
-## 🧪 What I Like to Build
-
-I enjoy working on projects involving:
-
-* 📈 Data analysis and visualization
-* 📊 Business Intelligence dashboards
-* 🧮 Mathematical and analytical models
-* 🗄️ SQL queries and data transformation
-* 🔄 ETL / ELT processes
-* ☁️ Cloud data solutions
-* ⚙️ Automation
-* 💻 Data-driven applications
-
----
-
-## 🗺️ My Philosophy
-
-> *“Not all those who wander are lost.”*
-
-In data, sometimes the path to the answer isn't obvious.
-
-You explore.
-You test.
-You break things.
-You learn.
-You try again.
-
-And eventually...
-
-**you find the way.**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=8&theme=dark"/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP%20HANA-008FD3?style=for-the-badge\&logo=sap\&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 The Road Goes Ever On
+# 🌐 Onde me encontrar
+
+Além do GitHub, também compartilho meus trabalhos e projetos em outros lugares:
 
 <div align="center">
 
-### *“The road goes ever on and on...”*
+<a href="https://www.linkedin.com/in/lucas-mazutti-3472521b8/">
+<img src="https://img.shields.io/badge/LinkedIn-Meu%20perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
-**Keep learning. Keep building. Keep going.**
-
-<br>
-
-<img src="SEU_GIF_FINAL" width="300">
-
-<br><br>
-
-### ⚔️ One does not simply stop learning.
+<a href="https://www.youtube.com/@lucasmazutti4065">
+<img src="https://img.shields.io/badge/YouTube-Meu%20canal-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+</a>
 
 </div>
 
@@ -189,8 +97,12 @@ And eventually...
 
 <div align="center">
 
-**Made with curiosity, data, mathematics and a little bit of magic. 🧙‍♂️**
+# 👋 Obrigado por visitar meu perfil!
 
-⭐ Feel free to explore my repositories!
+<img src="./gifs/mamoru_endou.gif" width="350">
+
+### ⚽ Até a próxima!
+
+*“Mesmo que pareça impossível, enquanto você não desistir, ainda há uma chance.”*
 
 </div>
